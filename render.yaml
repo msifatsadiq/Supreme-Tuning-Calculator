@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: supreme-tuning-api
+    runtime: node
+    region: oregon
+    plan: free
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: PORT
+        value: 5001
+      - key: NODE_ENV
+        value: production
+      - key: ADMIN_EMAIL
+        value: admin@supa.com
+      - key: ADMIN_PASS
+        value: password123
+      - key: JWT_SECRET
+        value: supreme-tuning-secret-key-2025
+      - key: FRONTEND_URL
+        value: https://autotuningcalc.netlify.app
