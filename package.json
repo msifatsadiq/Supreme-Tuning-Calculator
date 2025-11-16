@@ -7,7 +7,8 @@
     "node": "18.x"
   },
   "scripts": {
-    "start": "cd backend && npm start",
+    "start": "cd backend && npm install && npm start",
+    "build": "cd backend && npm install",
     "dev": "cd backend && npm run dev"
   }
 }
