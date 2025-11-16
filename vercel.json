@@ -1,0 +1,17 @@
+{
+  "buildCommand": "cd backend && npm install",
+  "outputDirectory": "backend",
+  "env": {
+    "PORT": "5001",
+    "NODE_ENV": "production",
+    "ADMIN_EMAIL": "admin@supa.com",
+    "ADMIN_PASS": "password123",
+    "JWT_SECRET": "supreme-tuning-secret-key-2025",
+    "FRONTEND_URL": "https://autotuningcalc.netlify.app"
+  },
+  "functions": {
+    "backend/server.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}

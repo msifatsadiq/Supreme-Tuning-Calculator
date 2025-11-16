@@ -1,0 +1,12 @@
+services:
+  supreme-tuning-api:
+    build:
+      context: ./backend
+    environment:
+      - PORT=5001
+      - NODE_ENV=production
+      - ADMIN_EMAIL=admin@supa.com
+      - ADMIN_PASS=password123
+      - JWT_SECRET=supreme-tuning-secret-key-2025
+      - FRONTEND_URL=https://autotuningcalc.netlify.app
+    port: 5001
