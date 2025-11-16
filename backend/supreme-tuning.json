@@ -1,0 +1,349 @@
+{
+  "brands": [
+    {
+      "id": "bmw",
+      "name": "BMW",
+      "models": [
+        {
+          "id": "m5-f90",
+          "name": "M5 F90",
+          "year": "2021",
+          "month": "8",
+          "engines": [
+            {
+              "id": "s63b44t4",
+              "name": "S63B44T4",
+              "stages": [
+                {
+                  "stage": "1",
+                  "stockHP": 600,
+                  "stockNM": 750,
+                  "tunedHP": 700,
+                  "tunedNM": 900,
+                  "notes": []
+                },
+                {
+                  "stage": "2",
+                  "stockHP": 600,
+                  "stockNM": 750,
+                  "tunedHP": 750,
+                  "tunedNM": 950,
+                  "notes": [
+                    "Requires downpipes"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3-g80",
+          "name": "M3 G80",
+          "year": "2021",
+          "month": "3",
+          "engines": [
+            {
+              "id": "s58b30",
+              "name": "S58B30",
+              "stages": [
+                {
+                  "stage": "1",
+                  "stockHP": 510,
+                  "stockNM": 650,
+                  "tunedHP": 600,
+                  "tunedNM": 750,
+                  "notes": []
+                },
+                {
+                  "stage": "2",
+                  "stockHP": 510,
+                  "stockNM": 650,
+                  "tunedHP": 650,
+                  "tunedNM": 800,
+                  "notes": [
+                    "Requires downpipes"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2-f87",
+          "name": "M2 Competition F87",
+          "year": "2019",
+          "month": "1",
+          "engines": [
+            {
+              "id": "s55b30",
+              "name": "S55B30",
+              "stages": [
+                {
+                  "stage": "1",
+                  "stockHP": 410,
+                  "stockNM": 550,
+                  "tunedHP": 500,
+                  "tunedNM": 650,
+                  "notes": []
+                },
+                {
+                  "stage": "2",
+                  "stockHP": 410,
+                  "stockNM": 550,
+                  "tunedHP": 550,
+                  "tunedNM": 700,
+                  "notes": [
+                    "Requires downpipes"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mercedes",
+      "name": "Mercedes-Benz",
+      "models": [
+        {
+          "id": "c63-w205",
+          "name": "C63 S W205",
+          "year": "2019",
+          "month": "1",
+          "engines": [
+            {
+              "id": "m177",
+              "name": "M177",
+              "stages": [
+                {
+                  "stage": "1",
+                  "stockHP": 510,
+                  "stockNM": 700,
+                  "tunedHP": 620,
+                  "tunedNM": 850,
+                  "notes": []
+                },
+                {
+                  "stage": "2",
+                  "stockHP": 510,
+                  "stockNM": 700,
+                  "tunedHP": 680,
+                  "tunedNM": 900,
+                  "notes": [
+                    "Requires downpipes"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "e63-w213",
+          "name": "E63 S W213",
+          "year": "2020",
+          "month": "6",
+          "engines": [
+            {
+              "id": "m177",
+              "name": "M177",
+              "stages": [
+                {
+                  "stage": "1",
+                  "stockHP": 612,
+                  "stockNM": 850,
+                  "tunedHP": 720,
+                  "tunedNM": 1000,
+                  "notes": []
+                },
+                {
+                  "stage": "2",
+                  "stockHP": 612,
+                  "stockNM": 850,
+                  "tunedHP": 780,
+                  "tunedNM": 1050,
+                  "notes": [
+                    "Requires downpipes"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "gt63-x290",
+          "name": "AMG GT 63 S X290",
+          "year": "2019",
+          "month": "3",
+          "engines": [
+            {
+              "id": "m177",
+              "name": "M177",
+              "stages": [
+                {
+                  "stage": "1",
+                  "stockHP": 639,
+                  "stockNM": 900,
+                  "tunedHP": 750,
+                  "tunedNM": 1050,
+                  "notes": []
+                },
+                {
+                  "stage": "2",
+                  "stockHP": 639,
+                  "stockNM": 900,
+                  "tunedHP": 800,
+                  "tunedNM": 1100,
+                  "notes": [
+                    "Requires downpipes"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "audi",
+      "name": "Audi",
+      "models": [
+        {
+          "id": "rs6-c8",
+          "name": "RS6 Avant C8",
+          "year": "2020",
+          "month": "1",
+          "engines": [
+            {
+              "id": "ea825",
+              "name": "EA825 4.0 TFSI",
+              "stages": [
+                {
+                  "stage": "1",
+                  "stockHP": 600,
+                  "stockNM": 800,
+                  "tunedHP": 720,
+                  "tunedNM": 950,
+                  "notes": []
+                },
+                {
+                  "stage": "2",
+                  "stockHP": 600,
+                  "stockNM": 800,
+                  "tunedHP": 780,
+                  "tunedNM": 1000,
+                  "notes": [
+                    "Requires downpipes"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "rs3-8y",
+          "name": "RS3 8Y",
+          "year": "2022",
+          "month": "1",
+          "engines": [
+            {
+              "id": "ea855",
+              "name": "EA855 2.5 TFSI",
+              "stages": [
+                {
+                  "stage": "1",
+                  "stockHP": 400,
+                  "stockNM": 500,
+                  "tunedHP": 500,
+                  "tunedNM": 600,
+                  "notes": []
+                },
+                {
+                  "stage": "2",
+                  "stockHP": 400,
+                  "stockNM": 500,
+                  "tunedHP": 550,
+                  "tunedNM": 650,
+                  "notes": [
+                    "Requires downpipes",
+                    "Requires intake"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "porsche",
+      "name": "Porsche",
+      "models": [
+        {
+          "id": "911-turbo-s-992",
+          "name": "911 Turbo S 992",
+          "year": "2021",
+          "month": "1",
+          "engines": [
+            {
+              "id": "9a2",
+              "name": "9A2 3.8 Twin-Turbo",
+              "stages": [
+                {
+                  "stage": "1",
+                  "stockHP": 667,
+                  "stockNM": 813,
+                  "tunedHP": 750,
+                  "tunedNM": 950,
+                  "notes": []
+                },
+                {
+                  "stage": "2",
+                  "stockHP": 650,
+                  "stockNM": 800,
+                  "tunedHP": 820,
+                  "tunedNM": 1000,
+                  "notes": [
+                    "Requires sport cats"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cayenne-turbo-e3",
+          "name": "Cayenne Turbo E3",
+          "year": "2019",
+          "month": "6",
+          "engines": [
+            {
+              "id": "9a2",
+              "name": "9A2 4.0 Twin-Turbo",
+              "stages": [
+                {
+                  "stage": "1",
+                  "stockHP": 550,
+                  "stockNM": 770,
+                  "tunedHP": 650,
+                  "tunedNM": 900,
+                  "notes": []
+                },
+                {
+                  "stage": "2",
+                  "stockHP": 550,
+                  "stockNM": 770,
+                  "tunedHP": 700,
+                  "tunedNM": 950,
+                  "notes": [
+                    "Requires downpipes"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
