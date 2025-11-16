@@ -1,0 +1,13 @@
+{
+  "name": "supreme-tuning",
+  "version": "1.0.0",
+  "description": "Supreme Tuning Calculator - Full Stack App",
+  "private": true,
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "start": "cd backend && npm start",
+    "dev": "cd backend && npm run dev"
+  }
+}
